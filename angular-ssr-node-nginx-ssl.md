@@ -34,3 +34,9 @@ server {
 4. ``sudo ufw allow 'Nginx Full'``
 5. ``sudo certbot --nginx -d website.com -d www.website.com``
 6. ``sudo certbot renew --dry-run`` (For Auto Renewal)
+
+
+- for Detailed info goto [Digital Ocean Docs]
+
+[//]: # 
+[Digital Ocean Docs]: <https://www.keycdn.com/support/nginx-virtual-host>
